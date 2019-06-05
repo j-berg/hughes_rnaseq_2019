@@ -1,0 +1,89 @@
+Hostname:  kp148
+Total cpu:  40
+GC threads:  28
+Total memory:  62
+Java memory:  60
+Disk available:  371G
+This is cutadapt 1.10 with Python 3.5.2
+Command line parameters: -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA -m 16 -o 14517X3.cutadapt.fq.gz 14517X3.fq.gz
+Trimming 1 adapter with at most 10.0% errors in single-end mode ...
+Finished in 658.90 s (62 us/read; 0.97 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              10,644,594
+Reads with adapters:                   244,899 (2.3%)
+Reads that were too short:                 479 (0.0%)
+Reads written (passing filters):    10,644,115 (100.0%)
+
+Total basepairs processed:   532,229,700 bp
+Total written (filtered):    531,391,258 bp (99.8%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGCACACGTCTGAACTCCAGTCA; Type: regular 3'; Length: 33; Trimmed: 244899 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-33 bp: 3
+
+Bases preceding removed adapters:
+  A: 35.7%
+  C: 24.1%
+  G: 18.9%
+  T: 21.1%
+  none/other: 0.2%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	185954	166321.8	0	185954
+4	47537	41580.4	0	47537
+5	8020	10395.1	0	8020
+6	728	2598.8	0	728
+7	204	649.7	0	204
+8	140	162.4	0	140
+9	758	40.6	0	105 653
+10	363	10.2	1	94 269
+11	445	2.5	1	74 371
+12	69	0.6	1	45 24
+13	53	0.2	1	50 3
+14	35	0.0	1	34 1
+15	28	0.0	1	27 1
+16	23	0.0	1	22 1
+17	9	0.0	1	9
+18	13	0.0	1	13
+19	12	0.0	1	12
+20	6	0.0	2	6
+21	2	0.0	2	2
+22	2	0.0	2	1 1
+23	4	0.0	2	4
+24	2	0.0	2	2
+25	3	0.0	2	2 0 1
+26	3	0.0	2	2 0 1
+27	2	0.0	2	1 0 1
+29	1	0.0	2	0 1
+31	2	0.0	3	2
+32	1	0.0	3	1
+33	1	0.0	3	1
+35	2	0.0	3	2
+36	2	0.0	3	2
+38	2	0.0	3	2
+41	8	0.0	3	6 1 1
+42	1	0.0	3	1
+43	1	0.0	3	1
+44	1	0.0	3	0 0 1
+45	1	0.0	3	1
+48	1	0.0	3	1
+49	1	0.0	3	1
+50	459	0.0	3	0 220 216 23
+
+Analysis complete for 14517X3.fq
+Sep 20 12:01:18 ..... started STAR run
+Sep 20 12:01:18 ..... loading genome
+Sep 20 12:01:19 ..... started 1st pass mapping
+Sep 20 12:01:34 ..... finished 1st pass mapping
+Sep 20 12:01:34 ..... inserting junctions into the genome indices
+Sep 20 12:01:35 ..... started mapping
+Sep 20 12:01:51 ..... started sorting BAM
+Sep 20 12:02:01 ..... started wiggle output
+Sep 20 12:02:16 ..... finished successfully
+success
