@@ -1,9 +1,7 @@
 # Hughes et al
 
 The following contains the necessary code for reproducing select figures from the associated manuscript   
-The [interactive notebook](https://github.com/j-berg/collaborations/blob/master/casey_collab/hughes_rnaseq.ipynb) contains the relevant code for reproducing the normalization and processing of the conA RNAseq time course data, as well as the code to reproduce figures relating to this data   
-
-For a preview of this code, click [here](insert_website_here)
+The [interactive notebook](https://github.com/j-berg/hughes_rnaseq_2019/blob/master/hughes_rnaseq.ipynb) contains the relevant code for reproducing the normalization and processing of the conA RNAseq time course data, as well as the code to reproduce figures relating to this data   
 
 ### Navigation:
 - docs: Contains markdown files for associated [website](insert_website_here)
