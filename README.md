@@ -1,6 +1,6 @@
 # Hughes et al
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/j-berg-hughes_rnaseq_2019-r3bztw6k/notebooks/hughes_rnaseq.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/j-berg-hughes_rnaseq_2019-r3bztw6k/tree?)
 
 
 
