@@ -1,0 +1,21 @@
+YEAST|SGD=S000005203|UniProtKB=P38636	YNL259C	Metal homeostasis factor ATX1;ATX1;ortholog	COPPER TRANSPORT PROTEIN ATOX1 (PTHR46365:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000006109|UniProtKB=Q06892	YPL188W	NADH kinase POS5, mitochondrial;POS5;ortholog	NADH KINASE POS5, MITOCHONDRIAL (PTHR20275:SF26)	nucleotide kinase(PC00172)	Saccharomyces cerevisiae
+YEAST|SGD=S000001880|UniProtKB=P22943	YFL014W	12 kDa heat shock protein;HSP12;ortholog	12 KDA HEAT SHOCK PROTEIN (PTHR28145:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000003275|UniProtKB=P53228	YGR043C	Transaldolase NQM1;NQM1;ortholog	TRANSALDOLASE (PTHR10683:SF18)		Saccharomyces cerevisiae
+YEAST|SGD=S000001148|UniProtKB=P38816	YHR106W	Thioredoxin reductase 2, mitochondrial;TRR2;ortholog	THIOREDOXIN REDUCTASE 1-RELATED (PTHR42863:SF13)	dehydrogenase(PC00092);oxidase(PC00175);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000004640|UniProtKB=P33748	YMR037C	Zinc finger protein MSN2;MSN2;ortholog	ZINC FINGER PROTEIN MSN2-RELATED (PTHR14596:SF68)		Saccharomyces cerevisiae
+YEAST|SGD=S000003949|UniProtKB=P31539	YLL026W	Heat shock protein 104;HSP104;ortholog	HEAT SHOCK PROTEIN 104 (PTHR11638:SF127)		Saccharomyces cerevisiae
+YEAST|SGD=S000007548|UniProtKB=Q96VH4	YCL026C-B	Putative nitroreductase HBN1;HBN1;ortholog	FATTY ACID REPRESSION MUTANT PROTEIN 2-RELATED (PTHR43035:SF1)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000002168|UniProtKB=Q12438	YDL010W	Monothiol glutaredoxin-6;GRX6;ortholog	GLUTAREDOXIN-1 (PTHR45694:SF15)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000002941|UniProtKB=Q04432	YDR533C	Glutathione-independent glyoxalase HSP31;HSP31;ortholog	GLUTATHIONE-INDEPENDENT GLYOXALASE HSP31-RELATED (PTHR43824:SF3)	RNA binding protein(PC00031);cysteine protease(PC00081);transcription factor(PC00218)	Saccharomyces cerevisiae
+YEAST|SGD=S000000160|UniProtKB=P34227	YBL064C	Peroxiredoxin PRX1, mitochondrial;PRX1;ortholog	PEROXIREDOXIN PRX1, MITOCHONDRIAL (PTHR43503:SF9)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000002282|UniProtKB=Q07551	YDL124W	NADPH-dependent alpha-keto amide reductase;YDL124W;ortholog	ZGC:110366 (PTHR11732:SF385)	reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000000589|UniProtKB=P37261	YCL026C-A	Fatty acid repression mutant protein 2;FRM2;ortholog	FATTY ACID REPRESSION MUTANT PROTEIN 2-RELATED (PTHR43035:SF1)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000001272|UniProtKB=P40553	YIL010W	Peroxiredoxin DOT5;DOT5;ortholog	PEROXIREDOXIN DOT5 (PTHR42801:SF14)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000000250|UniProtKB=P38230	YBR046C	Probable quinone oxidoreductase;ZTA1;ortholog	QUINONE OXIDOREDUCTASE-RELATED (PTHR42975:SF1)	dehydrogenase(PC00092);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000001545|UniProtKB=P33749	YKL062W	Zinc finger protein MSN4;MSN4;ortholog	ZINC FINGER PROTEIN MSN2-RELATED (PTHR14596:SF68)		Saccharomyces cerevisiae
+YEAST|SGD=S000001569|UniProtKB=P36077	YKL086W	Sulfiredoxin;SRX1;ortholog	SULFIREDOXIN-1 (PTHR21348:SF2)		Saccharomyces cerevisiae
+YEAST|SGD=S000000679|UniProtKB=P25372	YCR083W	Thioredoxin-3, mitochondrial;TRX3;ortholog	THIOREDOXIN-1-RELATED (PTHR10438:SF395)		Saccharomyces cerevisiae
+YEAST|SGD=S000000540|UniProtKB=P25373	YCL035C	Glutaredoxin-1;GRX1;ortholog	GLUTAREDOXIN 2 (PTHR45694:SF5)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000001146|UniProtKB=P38715	YHR104W	NADPH-dependent aldose reductase GRE3;GRE3;ortholog	NADPH-DEPENDENT ALDOSE REDUCTASE GRE3 (PTHR11732:SF218)	reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000002861|UniProtKB=Q04120	YDR453C	Peroxiredoxin TSA2;TSA2;ortholog	PEROXIREDOXIN-4 (PTHR10681:SF128)	peroxidase(PC00180)	Saccharomyces cerevisiae
