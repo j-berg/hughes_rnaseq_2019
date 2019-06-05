@@ -1,11 +1,11 @@
 # Hughes et al
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-berg/hughes_rnaseq_2019/master?urlpath=https%3A%2F%2Fgithub.com%2Fj-berg%2Fhughes_rnaseq_2019%2Fblob%2Fmaster%2Fhughes_rnaseq.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/j-berg-hughes_rnaseq_2019-tpyq2z2g/notebooks/hughes_rnaseq.ipynb)
 
 
 
 The following contains the necessary code for reproducing select figures from the associated manuscript   
-The [interactive notebook](https://mybinder.org/v2/gh/j-berg/hughes_rnaseq_2019/master?urlpath=https%3A%2F%2Fgithub.com%2Fj-berg%2Fhughes_rnaseq_2019%2Fblob%2Fmaster%2Fhughes_rnaseq.ipynb) contains the relevant code for reproducing the normalization and processing of the conA RNAseq time course data, as well as the code to reproduce figures relating to this data. This notebook is hosted on BinderHub, so it can be run interactively within your browser.   
+The [interactive notebook](https://hub.mybinder.org/user/j-berg-hughes_rnaseq_2019-tpyq2z2g/notebooks/hughes_rnaseq.ipynb) contains the relevant code for reproducing the normalization and processing of the conA RNAseq time course data, as well as the code to reproduce figures relating to this data. This notebook is hosted on BinderHub, so it can be run interactively within your browser.   
 
 ### Navigation:
 - docs: Contains markdown files for associated [website](insert_website_here)
