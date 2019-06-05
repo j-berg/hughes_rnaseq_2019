@@ -1,0 +1,89 @@
+Hostname:  kp149
+Total cpu:  40
+GC threads:  28
+Total memory:  62
+Java memory:  60
+Disk available:  402G
+This is cutadapt 1.10 with Python 3.5.2
+Command line parameters: -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA -m 16 -o 14517X6.cutadapt.fq.gz 14517X6.fq.gz
+Trimming 1 adapter with at most 10.0% errors in single-end mode ...
+Finished in 765.94 s (61 us/read; 0.98 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              12,510,997
+Reads with adapters:                   278,029 (2.2%)
+Reads that were too short:                 518 (0.0%)
+Reads written (passing filters):    12,510,479 (100.0%)
+
+Total basepairs processed:   625,549,850 bp
+Total written (filtered):    624,599,689 bp (99.8%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGCACACGTCTGAACTCCAGTCA; Type: regular 3'; Length: 33; Trimmed: 278029 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30-33 bp: 3
+
+Bases preceding removed adapters:
+  A: 34.7%
+  C: 23.9%
+  G: 19.7%
+  T: 21.5%
+  none/other: 0.2%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	210844	195484.3	0	210844
+4	54194	48871.1	0	54194
+5	9137	12217.8	0	9137
+6	993	3054.4	0	993
+7	250	763.6	0	250
+8	140	190.9	0	140
+9	815	47.7	0	130 685
+10	396	11.9	1	106 290
+11	499	3.0	1	71 428
+12	74	0.7	1	44 30
+13	45	0.2	1	43 2
+14	24	0.0	1	24
+15	25	0.0	1	25
+16	13	0.0	1	13
+17	21	0.0	1	21
+18	7	0.0	1	7
+19	9	0.0	1	9
+20	9	0.0	2	9
+22	3	0.0	2	3
+23	2	0.0	2	2
+24	2	0.0	2	1 1
+27	2	0.0	2	2
+28	1	0.0	2	1
+29	1	0.0	2	1
+31	2	0.0	3	1 0 1
+32	2	0.0	3	1 0 1
+33	1	0.0	3	1
+36	2	0.0	3	2
+39	1	0.0	3	1
+40	3	0.0	3	2 0 1
+41	4	0.0	3	4
+42	2	0.0	3	2
+43	2	0.0	3	1 1
+44	3	0.0	3	3
+45	2	0.0	3	2
+46	3	0.0	3	3
+47	2	0.0	3	2
+48	2	0.0	3	2
+49	1	0.0	3	0 1
+50	491	0.0	3	1 286 182 22
+
+Analysis complete for 14517X6.fq
+Sep 20 11:06:49 ..... started STAR run
+Sep 20 11:06:49 ..... loading genome
+Sep 20 11:06:49 ..... started 1st pass mapping
+Sep 20 11:07:06 ..... finished 1st pass mapping
+Sep 20 11:07:06 ..... inserting junctions into the genome indices
+Sep 20 11:07:07 ..... started mapping
+Sep 20 11:07:25 ..... started sorting BAM
+Sep 20 11:07:38 ..... started wiggle output
+Sep 20 11:07:55 ..... finished successfully
+success

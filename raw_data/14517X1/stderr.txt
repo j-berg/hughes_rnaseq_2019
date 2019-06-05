@@ -1,0 +1,86 @@
+Started analysis of 14517X1.fq
+Approx 5% complete for 14517X1.fq
+Approx 10% complete for 14517X1.fq
+Approx 15% complete for 14517X1.fq
+Approx 20% complete for 14517X1.fq
+Approx 25% complete for 14517X1.fq
+Approx 30% complete for 14517X1.fq
+Approx 35% complete for 14517X1.fq
+Approx 40% complete for 14517X1.fq
+Approx 45% complete for 14517X1.fq
+Approx 50% complete for 14517X1.fq
+Approx 55% complete for 14517X1.fq
+Approx 60% complete for 14517X1.fq
+Approx 65% complete for 14517X1.fq
+Approx 70% complete for 14517X1.fq
+Approx 75% complete for 14517X1.fq
+Approx 80% complete for 14517X1.fq
+Approx 85% complete for 14517X1.fq
+Approx 90% complete for 14517X1.fq
+Approx 95% complete for 14517X1.fq
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.5.1
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                           S 14517X1.bam                                    ||
+||                                                                            ||
+||             Output file : 14517X1.counts                                   ||
+||                 Summary : 14517X1.counts.summary                           ||
+||              Annotation : /uufs/chpc.utah.edu/common/home/hcibcore/atl ... ||
+||      Dir for temp files : ./                                               ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||         Strand specific : reversely stranded                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||       Overlapping bases : 0.0%                                             ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file /uufs/chpc.utah.edu/common/home/hcibcore/atlatl/d ... ||
+||    Features : 6599                                                         ||
+||    Meta-features : 6219                                                    ||
+||    Chromosomes/contigs : 18                                                ||
+||                                                                            ||
+|| Process BAM file 14517X1.bam...                                            ||
+||    Single-end reads are included.                                          ||
+||    Assign reads to features...                                             ||
+||    Total reads : 14465107                                                  ||
+||    Successfully assigned reads : 11010888 (76.1%)                          ||
+||    Running time : 0.37 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+[Wed Sep 20 11:08:06 MDT 2017] net.sf.picard.analysis.CollectRnaSeqMetrics REF_FLAT=/uufs/chpc.utah.edu/common/home/hcibcore/atlatl/data/S_cerevisiae/Sc3/SacCer3_R64_all_genes_NoDubious_UTR.refFlat RIBOSOMAL_INTERVALS=/uufs/chpc.utah.edu/common/home/hcibcore/atlatl/data/S_cerevisiae/Sc3/Saccharomyces_cerevisiae.R64-1-1.rRNA.interval STRAND_SPECIFICITY=SECOND_READ_TRANSCRIPTION_STRAND INPUT=14517X1.bam OUTPUT=14517X1.rna_metrics    MINIMUM_LENGTH=500 RRNA_FRAGMENT_PERCENTAGE=0.8 METRIC_ACCUMULATION_LEVEL=[ALL_READS] ASSUME_SORTED=true STOP_AFTER=0 VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false
+[Wed Sep 20 11:08:06 MDT 2017] Executing as hcihiseqpipeline@kp148 on Linux 3.10.0-327.36.3.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.7.0_40-b43; Picard version: 1.87(1380)
+INFO	2017-09-20 11:08:07	CollectRnaSeqMetrics	Loaded 6215 genes.
+INFO	2017-09-20 11:08:09	SinglePassSamProgram	Processed     1,000,000 records.  Elapsed time: 00:00:02s.  Time for last 1,000,000:    2s.  Last read position: chrII:478,025
+INFO	2017-09-20 11:08:12	SinglePassSamProgram	Processed     2,000,000 records.  Elapsed time: 00:00:04s.  Time for last 1,000,000:    2s.  Last read position: chrIV:45,212
+INFO	2017-09-20 11:08:14	SinglePassSamProgram	Processed     3,000,000 records.  Elapsed time: 00:00:07s.  Time for last 1,000,000:    2s.  Last read position: chrIV:1,160,368
+INFO	2017-09-20 11:08:16	SinglePassSamProgram	Processed     4,000,000 records.  Elapsed time: 00:00:09s.  Time for last 1,000,000:    2s.  Last read position: chrV:292,236
+INFO	2017-09-20 11:08:18	SinglePassSamProgram	Processed     5,000,000 records.  Elapsed time: 00:00:11s.  Time for last 1,000,000:    2s.  Last read position: chrVI:254,004
+INFO	2017-09-20 11:08:20	SinglePassSamProgram	Processed     6,000,000 records.  Elapsed time: 00:00:13s.  Time for last 1,000,000:    2s.  Last read position: chrVII:866,449
+INFO	2017-09-20 11:08:23	SinglePassSamProgram	Processed     7,000,000 records.  Elapsed time: 00:00:15s.  Time for last 1,000,000:    2s.  Last read position: chrVIII:452,299
+INFO	2017-09-20 11:08:24	SinglePassSamProgram	Processed     8,000,000 records.  Elapsed time: 00:00:17s.  Time for last 1,000,000:    1s.  Last read position: chrXI:35,875
+INFO	2017-09-20 11:08:27	SinglePassSamProgram	Processed     9,000,000 records.  Elapsed time: 00:00:19s.  Time for last 1,000,000:    2s.  Last read position: chrXII:199,105
+INFO	2017-09-20 11:08:29	SinglePassSamProgram	Processed    10,000,000 records.  Elapsed time: 00:00:21s.  Time for last 1,000,000:    2s.  Last read position: chrXII:638,742
+INFO	2017-09-20 11:08:31	SinglePassSamProgram	Processed    11,000,000 records.  Elapsed time: 00:00:24s.  Time for last 1,000,000:    2s.  Last read position: chrXIII:552,642
+INFO	2017-09-20 11:08:33	SinglePassSamProgram	Processed    12,000,000 records.  Elapsed time: 00:00:26s.  Time for last 1,000,000:    2s.  Last read position: chrXIV:585,867
+INFO	2017-09-20 11:08:35	SinglePassSamProgram	Processed    13,000,000 records.  Elapsed time: 00:00:28s.  Time for last 1,000,000:    2s.  Last read position: chrXV:780,479
+INFO	2017-09-20 11:08:37	SinglePassSamProgram	Processed    14,000,000 records.  Elapsed time: 00:00:30s.  Time for last 1,000,000:    2s.  Last read position: chrXVI:701,044
+[Wed Sep 20 11:08:38 MDT 2017] net.sf.picard.analysis.CollectRnaSeqMetrics done. Elapsed time: 0.53 minutes.
+Runtime.totalMemory()=1121976320
