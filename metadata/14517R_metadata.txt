@@ -1,0 +1,25 @@
+Multiplex #	ID	Sample Name	Conc. (ng/ul)	Vol. (uL)	Individual	Sample Type	Organism	QC Conc. (ng/uL)	QC RIN	Seq Lib Protocol	@seqPrepByCore	Index Tag A	Index Tag	Ave Insert Size	QC Frag Size (from)	QC Frag Size (to)	QC Status	Seq Lib Prep Status	Core to prep lib?	Seq Lib Conc. ng/uL
+1	14517X1	2993A0	270.000	20.0		Total RNA (eukaryote)	Yeast	277.00	9.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 1 ATCACG	ATCACG				Completed	Completed	Y	
+1	14517X2	2993B0	170.000	20.0		Total RNA (eukaryote)	Yeast	240.00	9.6	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 2 CGATGT	CGATGT				Completed	Completed	Y	
+1	14517X3	2993C0	200.000	20.0		Total RNA (eukaryote)	Yeast	197.00	9.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 3 TTAGGC	TTAGGC				Completed	Completed	Y	
+1	14517X4	2993A1	350.000	20.0		Total RNA (eukaryote)	Yeast	374.00	9.6	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 4 TGACCA	TGACCA				Completed	Completed	Y	
+1	14517X5	2993B1	260.000	20.0		Total RNA (eukaryote)	Yeast	242.00	9.7	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 5 ACAGTG	ACAGTG				Completed	Completed	Y	
+1	14517X6	2993C1	190.000	20.0		Total RNA (eukaryote)	Yeast	200.00	9.7	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 6 GCCAAT	GCCAAT				Completed	Completed	Y	
+1	14517X7	2993A3	220.000	20.0		Total RNA (eukaryote)	Yeast	228.00	9.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 7 CAGATC	CAGATC				Completed	Completed	Y	
+1	14517X8	2993B3	220.000	20.0		Total RNA (eukaryote)	Yeast	233.00	9.8	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 8 ACTTGA	ACTTGA				Completed	Completed	Y	
+1	14517X9	2993C3	230.000	20.0		Total RNA (eukaryote)	Yeast	240.00	9.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 9 GATCAG	GATCAG				Completed	Completed	Y	
+1	14517X10	2993A6	140.000	20.0		Total RNA (eukaryote)	Yeast	149.00	9.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 10 TAGCTT	TAGCTT				Completed	Completed	Y	
+1	14517X11	2993B6	215.000	20.0		Total RNA (eukaryote)	Yeast	158.00	9.6	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 11 GGCTAC	GGCTAC				Completed	Completed	Y	
+1	14517X12	2993C6	165.000	20.0		Total RNA (eukaryote)	Yeast	215.00	9.6	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 12 CTTGTA	CTTGTA				Completed	Completed	Y	
+1	14517X13	4741A0	1186.000	20.0		Total RNA (eukaryote)	Yeast	1278.00	3.6	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 13 AGTCAA	AGTCAA				Completed	Completed	Y	
+1	14517X14	4741B0	795.000	20.0		Total RNA (eukaryote)	Yeast	870.00	4.2	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 14 AGTTCC	AGTTCC				Completed	Completed	Y	
+1	14517X15	4741C0	699.000	20.0		Total RNA (eukaryote)	Yeast	799.00	5.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 15 ATGTCA	ATGTCA				Completed	Completed	Y	
+1	14517X16	4741A1	490.000	20.0		Total RNA (eukaryote)	Yeast	761.00	3.2	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 16 CCGTCC	CCGTCC				Completed	Completed	Y	
+1	14517X17	4741B1	796.000	20.0		Total RNA (eukaryote)	Yeast	815.00	3.8	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 18 GTCCGC	GTCCGC				Completed	Completed	Y	
+1	14517X18	4741C1	744.000	20.0		Total RNA (eukaryote)	Yeast	658.00	1.1	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 19 GTGAAA	GTGAAA				Completed	Completed	Y	
+1	14517X19	4741A3	455.000	20.0		Total RNA (eukaryote)	Yeast	812.00	3.7	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 20 GTGGCC	GTGGCC				Completed	Completed	Y	
+1	14517X20	4741B3	458.000	20.0		Total RNA (eukaryote)	Yeast	575.00	2.8	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 21 GTTTCG	GTTTCG				Completed	Completed	Y	
+1	14517X21	4741C3	729.000	20.0		Total RNA (eukaryote)	Yeast	658.00	3.5	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 22 CGTACG	CGTACG				Completed	Completed	Y	
+1	14517X22	4741A6	596.000	20.0		Total RNA (eukaryote)	Yeast	628.00	3.1	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 23 GAGTGG	GAGTGG				Completed	Completed	Y	
+1	14517X23	4741B6	613.000	20.0		Total RNA (eukaryote)	Yeast	507.00	4.7	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 25 ACTGAT	ACTGAT				Completed	Completed	Y	
+1	14517X24	4741C6	518.000	20.0		Total RNA (eukaryote)	Yeast	575.00	3.9	Illumina TruSeq Stranded Total RNA with Ribo-Zero Yeast	Y	Index 27 ATTCCT	ATTCCT				Completed	Completed	Y	

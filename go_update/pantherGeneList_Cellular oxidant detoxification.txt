@@ -1,0 +1,10 @@
+YEAST|SGD=S000001477|UniProtKB=P40582	YIR038C	Glutathione S-transferase 1;GTT1;ortholog	GLUTATHIONE S-TRANSFERASE 1 (PTHR44051:SF9)		Saccharomyces cerevisiae
+YEAST|SGD=S000001148|UniProtKB=P38816	YHR106W	Thioredoxin reductase 2, mitochondrial;TRR2;ortholog	THIOREDOXIN REDUCTASE 1-RELATED (PTHR42863:SF13)	dehydrogenase(PC00092);oxidase(PC00175);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000002168|UniProtKB=Q12438	YDL010W	Monothiol glutaredoxin-6;GRX6;ortholog	GLUTAREDOXIN-1 (PTHR45694:SF15)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000003386|UniProtKB=P48239	YGR154C	Glutathione S-transferase omega-like 1;GTO1;ortholog	GLUTATHIONE S-TRANSFERASE OMEGA-LIKE 1-RELATED (PTHR32419:SF6)	signaling molecule(PC00207)	Saccharomyces cerevisiae
+YEAST|SGD=S000000160|UniProtKB=P34227	YBL064C	Peroxiredoxin PRX1, mitochondrial;PRX1;ortholog	PEROXIREDOXIN PRX1, MITOCHONDRIAL (PTHR43503:SF9)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000001272|UniProtKB=P40553	YIL010W	Peroxiredoxin DOT5;DOT5;ortholog	PEROXIREDOXIN DOT5 (PTHR42801:SF14)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000001784|UniProtKB=P36156	YKR076W	Glutathione S-transferase omega-like 2;ECM4;ortholog	GLUTATHIONE S-TRANSFERASE OMEGA-LIKE 1-RELATED (PTHR32419:SF6)	signaling molecule(PC00207)	Saccharomyces cerevisiae
+YEAST|SGD=S000001569|UniProtKB=P36077	YKL086W	Sulfiredoxin;SRX1;ortholog	SULFIREDOXIN-1 (PTHR21348:SF2)		Saccharomyces cerevisiae
+YEAST|SGD=S000000540|UniProtKB=P25373	YCL035C	Glutaredoxin-1;GRX1;ortholog	GLUTAREDOXIN 2 (PTHR45694:SF5)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000002861|UniProtKB=Q04120	YDR453C	Peroxiredoxin TSA2;TSA2;ortholog	PEROXIREDOXIN-4 (PTHR10681:SF128)	peroxidase(PC00180)	Saccharomyces cerevisiae

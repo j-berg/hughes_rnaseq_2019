@@ -1,0 +1,6 @@
+GO biological process complete,#,#,expected,Fold Enrichment,+/-,raw P value,FDR
+polyphosphate metabolic process,14,4,0.17,24,+,4.76E-05,5.64E-03
+rRNA export from nucleus,18,5,0.21,23.34,+,5.58E-06,7.85E-04
+cytoplasmic translation,172,40,2.05,19.54,+,9.86E-41,5.26E-37
+ribosomal large subunit assembly,42,6,0.5,12,+,1.78E-05,2.16E-03
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",104,12,1.24,9.69,+,7.14E-09,1.47E-06

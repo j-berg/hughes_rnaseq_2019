@@ -1,0 +1,10 @@
+GO biological process complete,#,#,expected,Fold Enrichment,+/-,raw P value,FDR
+rRNA export from nucleus,18,12,0.45,26.88,+,1.54E-12,2.11E-10
+cytoplasmic translation,172,87,4.27,20.4,+,3.39E-85,1.81E-81
+ribosomal small subunit assembly,29,14,0.72,19.47,+,5.50E-13,8.15E-11
+polyphosphate metabolic process,14,4,0.35,11.52,+,7.74E-04,4.39E-02
+ribosomal large subunit assembly,42,12,1.04,11.52,+,3.71E-09,4.21E-07
+regulation of translational fidelity,29,6,0.72,8.34,+,1.65E-04,1.12E-02
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",104,21,2.58,8.14,+,1.19E-12,1.67E-10
+maturation of LSU-rRNA,57,7,1.41,4.95,+,8.26E-04,4.59E-02
+alpha-amino acid biosynthetic process,124,11,3.07,3.58,+,3.93E-04,2.38E-02

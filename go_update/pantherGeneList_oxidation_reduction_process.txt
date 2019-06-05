@@ -1,0 +1,72 @@
+YEAST|SGD=S000005511|UniProtKB=Q12068	YOL151W	NADPH-dependent methylglyoxal reductase GRE2;GRE2;ortholog	NADPH-DEPENDENT ALDEHYDE REDUCTASE ARI1-RELATED (PTHR10366:SF502)	dehydratase(PC00091);epimerase/racemase(PC00096);oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000006253|UniProtKB=Q12527	YPR049C	Autophagy-related protein 11;ATG11;ortholog	RB1-INDUCIBLE COILED-COIL PROTEIN 1 (PTHR13222:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000000353|UniProtKB=P38115	YBR149W	D-arabinose dehydrogenase [NAD(P)+] heavy chain;ARA1;ortholog	D-ARABINOSE DEHYDROGENASE [NAD(P)+] HEAVY CHAIN (PTHR11732:SF399)	reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000004195|UniProtKB=P32339	YLR205C	Heme-binding protein HMX1;HMX1;ortholog	HEME OXYGENASE (PTHR10720:SF0)		Saccharomyces cerevisiae
+YEAST|SGD=S000000746|UniProtKB=P39994	YEL020C	Putative 2-hydroxyacyl-CoA lyase;YEL020C;ortholog	2-HYDROXYACYL-COA LYASE 1 (PTHR43710:SF2)	decarboxylase(PC00089);dehydrogenase(PC00092);transferase(PC00220)	Saccharomyces cerevisiae
+YEAST|SGD=S000000321|UniProtKB=P33315	YBR117C	Transketolase 2;TKL2;ortholog	TRANSKETOLASE 1-RELATED (PTHR43522:SF2)	dehydrogenase(PC00092);lyase(PC00144);transketolase(PC00221)	Saccharomyces cerevisiae
+YEAST|SGD=S000004982|UniProtKB=P28834	YNL037C	Isocitrate dehydrogenase [NAD] subunit 1, mitochondrial;IDH1;ortholog	ISOCITRATE DEHYDROGENASE [NAD] SUBUNIT BETA, MITOCHONDRIAL (PTHR11835:SF42)	dehydrogenase(PC00092)	Saccharomyces cerevisiae
+YEAST|SGD=S000004090|UniProtKB=Q12452	YLR100W	3-keto-steroid reductase;ERG27;ortholog	3-KETO-STEROID REDUCTASE (PTHR43647:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000002243|UniProtKB=Q07500	YDL085W	External NADH-ubiquinone oxidoreductase 2, mitochondrial;NDE2;ortholog	EXTERNAL NADH-UBIQUINONE OXIDOREDUCTASE 1, MITOCHONDRIAL-RELATED (PTHR43706:SF1)	dehydrogenase(PC00092);oxidase(PC00175);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000003275|UniProtKB=P53228	YGR043C	Transaldolase NQM1;NQM1;ortholog	TRANSALDOLASE (PTHR10683:SF18)		Saccharomyces cerevisiae
+YEAST|SGD=S000001148|UniProtKB=P38816	YHR106W	Thioredoxin reductase 2, mitochondrial;TRR2;ortholog	THIOREDOXIN REDUCTASE 1-RELATED (PTHR42863:SF13)	dehydrogenase(PC00092);oxidase(PC00175);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000004263|UniProtKB=Q06216	YLR273C	Serine/threonine-protein phosphatase 1 regulatory subunit PIG1;PIG1;ortholog	PROTEIN PHOSPHATASE 1 REGULATORY SUBUNIT (PTHR12307:SF36)		Saccharomyces cerevisiae
+YEAST|SGD=S000003839|UniProtKB=P47125	YJR078W	Indoleamine 2,3-dioxygenase;BNA2;ortholog	INDOLEAMINE 2,3-DIOXYGENASE (PTHR28657:SF5)		Saccharomyces cerevisiae
+YEAST|SGD=S000007548|UniProtKB=Q96VH4	YCL026C-B	Putative nitroreductase HBN1;HBN1;ortholog	FATTY ACID REPRESSION MUTANT PROTEIN 2-RELATED (PTHR43035:SF1)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000000058|UniProtKB=P39708	YAL062W	NADP-specific glutamate dehydrogenase 2;GDH3;ortholog	NADP-SPECIFIC GLUTAMATE DEHYDROGENASE 1-RELATED (PTHR43571:SF1)	dehydrogenase(PC00092)	Saccharomyces cerevisiae
+YEAST|SGD=S000002168|UniProtKB=Q12438	YDL010W	Monothiol glutaredoxin-6;GRX6;ortholog	GLUTAREDOXIN-1 (PTHR45694:SF15)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000005938|UniProtKB=Q02733	YPL017C	Increased recombination centers protein 15;IRC15;ortholog	DIHYDROLIPOYL DEHYDROGENASE, MITOCHONDRIAL (PTHR22912:SF151)	dehydrogenase(PC00092);oxidase(PC00175);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000005146|UniProtKB=P32573	YNL202W	Peroxisomal 2,4-dienoyl-CoA reductase SPS19;SPS19;ortholog	PEROXISOMAL 2,4-DIENOYL-COA REDUCTASE (PTHR43296:SF2)	dehydrogenase(PC00092);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000005908|UniProtKB=Q08905	YOR381W	Ferric reductase transmembrane component 3;FRE3;ortholog	FERRIC REDUCTASE TRANSMEMBRANE COMPONENT 3-RELATED (PTHR32361:SF9)		Saccharomyces cerevisiae
+YEAST|SGD=S000001361|UniProtKB=P08019	YIL099W	Glucoamylase, intracellular sporulation-specific;SGA1;ortholog	GLUCOAMYLASE, INTRACELLULAR SPORULATION-SPECIFIC (PTHR31616:SF9)		Saccharomyces cerevisiae
+YEAST|SGD=S000004132|UniProtKB=P09368	YLR142W	Proline dehydrogenase, mitochondrial;PUT1;ortholog	HYDROXYPROLINE DEHYDROGENASE (PTHR13914:SF0)		Saccharomyces cerevisiae
+YEAST|SGD=S000003488|UniProtKB=P53319	YGR256W	6-phosphogluconate dehydrogenase, decarboxylating 2;GND2;ortholog	6-PHOSPHOGLUCONATE DEHYDROGENASE, DECARBOXYLATING (PTHR11811:SF45)	dehydrogenase(PC00092)	Saccharomyces cerevisiae
+YEAST|SGD=S000006092|UniProtKB=P41816	YPL171C	NADPH dehydrogenase 3;OYE3;ortholog	NADPH DEHYDROGENASE 2-RELATED (PTHR22893:SF110)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000005343|UniProtKB=P53746	YNR060W	Ferric reductase transmembrane component 4;FRE4;ortholog	FERRIC REDUCTASE TRANSMEMBRANE COMPONENT 3-RELATED (PTHR32361:SF9)		Saccharomyces cerevisiae
+YEAST|SGD=S000003880|UniProtKB=P47156	YJR119C	Histone demethylase JHD2;JHD2;ortholog	LYSINE-SPECIFIC DEMETHYLASE LID (PTHR10694:SF8)	zinc finger transcription factor(PC00244)	Saccharomyces cerevisiae
+YEAST|SGD=S000003125|UniProtKB=P53111	YGL157W	NADPH-dependent aldehyde reductase ARI1;ARI1;ortholog	NADPH-DEPENDENT ALDEHYDE REDUCTASE ARI1-RELATED (PTHR10366:SF502)	dehydratase(PC00091);epimerase/racemase(PC00096);oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000003386|UniProtKB=P48239	YGR154C	Glutathione S-transferase omega-like 1;GTO1;ortholog	GLUTATHIONE S-TRANSFERASE OMEGA-LIKE 1-RELATED (PTHR32419:SF6)	signaling molecule(PC00207)	Saccharomyces cerevisiae
+YEAST|SGD=S000003476|UniProtKB=P53312	YGR244C	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial;LSC2;ortholog	SUCCINATE--COA LIGASE [ADP-FORMING] SUBUNIT BETA, MITOCHONDRIAL (PTHR11815:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000001926|UniProtKB=P39692	YFR030W	Sulfite reductase [NADPH] flavoprotein component;MET10;ortholog	SULFITE REDUCTASE [NADPH] FLAVOPROTEIN COMPONENT (PTHR19384:SF109)		Saccharomyces cerevisiae
+YEAST|SGD=S000003007|UniProtKB=P53183	YGL039W	Putative uncharacterized oxidoreductase YGL039W;YGL039W;ortholog	NADPH-DEPENDENT ALDEHYDE REDUCTASE ARI1-RELATED (PTHR10366:SF502)	dehydratase(PC00091);epimerase/racemase(PC00096);oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000003023|UniProtKB=P21147	YGL055W	Acyl-CoA desaturase 1;OLE1;ortholog	ACYL-COA DESATURASE 1 (PTHR11351:SF64)		Saccharomyces cerevisiae
+YEAST|SGD=S000007587|UniProtKB=Q3E840	YBL071W-A	Diphthamide biosynthesis protein 3;KTI11;ortholog	DPH3 HOMOLOG (PTHR21454:SF2)		Saccharomyces cerevisiae
+YEAST|SGD=S000003974|UniProtKB=Q12473	YLL051C	Ferric reductase transmembrane component 6;FRE6;ortholog	FERRIC REDUCTASE TRANSMEMBRANE COMPONENT 3-RELATED (PTHR32361:SF9)		Saccharomyces cerevisiae
+YEAST|SGD=S000005662|UniProtKB=P28241	YOR136W	Isocitrate dehydrogenase [NAD] subunit 2, mitochondrial;IDH2;ortholog	ISOCITRATE DEHYDROGENASE [NAD] SUBUNIT ALPHA, MITOCHONDRIAL (PTHR11835:SF34)	dehydrogenase(PC00092)	Saccharomyces cerevisiae
+YEAST|SGD=S000000160|UniProtKB=P34227	YBL064C	Peroxiredoxin PRX1, mitochondrial;PRX1;ortholog	PEROXIREDOXIN PRX1, MITOCHONDRIAL (PTHR43503:SF9)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000004204|UniProtKB=P32791	YLR214W	Ferric/cupric reductase transmembrane component 1;FRE1;ortholog	FERRIC/CUPRIC REDUCTASE TRANSMEMBRANE COMPONENT 1 (PTHR32361:SF25)		Saccharomyces cerevisiae
+YEAST|SGD=S000001219|UniProtKB=P38866	YHR176W	Thiol-specific monooxygenase;FMO1;ortholog	FLAVIN-CONTAINING MONOOXYGENASE (PTHR43539:SF6)	oxygenase(PC00177)	Saccharomyces cerevisiae
+YEAST|SGD=S000004037|UniProtKB=Q12209	YLR047C	Probable ferric reductase transmembrane component 8;FRE8;ortholog	FERRIC REDUCTASE TRANSMEMBRANE COMPONENT 8-RELATED (PTHR11972:SF157)		Saccharomyces cerevisiae
+YEAST|SGD=S000003292|UniProtKB=P53045	YGR060W	Methylsterol monooxygenase;ERG25;ortholog	METHYLSTEROL MONOOXYGENASE 1 (PTHR11863:SF33)	oxidase(PC00175)	Saccharomyces cerevisiae
+YEAST|SGD=S000005904|UniProtKB=P40353	YOR377W	Alcohol O-acetyltransferase 1;ATF1;ortholog	ALCOHOL O-ACETYLTRANSFERASE 1-RELATED (PTHR28037:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000005078|UniProtKB=P53912	YNL134C	Uncharacterized protein YNL134C;YNL134C;ortholog	SUBFAMILY NOT NAMED (PTHR43482:SF2)	dehydrogenase(PC00092);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000001590|UniProtKB=P34251	YKL107W	Uncharacterized oxidoreductase YKL107W;YKL107W;ortholog	OXIDOREDUCTASE ENV9-RELATED (PTHR24320:SF173)	dehydrogenase(PC00092);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000000883|UniProtKB=P40054	YER081W	D-3-phosphoglycerate dehydrogenase 1;SER3;ortholog	D-3-PHOSPHOGLYCERATE DEHYDROGENASE 1-RELATED (PTHR10996:SF165)		Saccharomyces cerevisiae
+YEAST|SGD=S000001853|UniProtKB=P43561	YFL041W	Iron transport multicopper oxidase FET5;FET5;ortholog	IRON TRANSPORT MULTICOPPER OXIDASE FET5-RELATED (PTHR11709:SF105)	oxidase(PC00175)	Saccharomyces cerevisiae
+YEAST|SGD=S000003771|UniProtKB=P08536	YJR010W	Sulfate adenylyltransferase;MET3;ortholog	SULFATE ADENYLYLTRANSFERASE (PTHR42700:SF1)	kinase(PC00137);nucleotidyltransferase(PC00174)	Saccharomyces cerevisiae
+YEAST|SGD=S000003409|UniProtKB=P53296	YGR177C	Alcohol O-acetyltransferase 2;ATF2;ortholog	ALCOHOL O-ACETYLTRANSFERASE 1-RELATED (PTHR28037:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000001757|UniProtKB=P36141	YKR049C	Putative redox protein FMP46, mitochondrial;FMP46;ortholog	REDOX PROTEIN FMP46, MITOCHONDRIAL-RELATED (PTHR28071:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000002282|UniProtKB=Q07551	YDL124W	NADPH-dependent alpha-keto amide reductase;YDL124W;ortholog	ZGC:110366 (PTHR11732:SF385)	reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000000589|UniProtKB=P37261	YCL026C-A	Fatty acid repression mutant protein 2;FRM2;ortholog	FATTY ACID REPRESSION MUTANT PROTEIN 2-RELATED (PTHR43035:SF1)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000004046|UniProtKB=P32353	YLR056W	Delta(7)-sterol 5(6)-desaturase;ERG3;ortholog	LATHOSTEROL OXIDASE (PTHR11863:SF139)	hydroxylase(PC00122);oxidase(PC00175)	Saccharomyces cerevisiae
+YEAST|SGD=S000004599|UniProtKB=Q03103	YML130C	Endoplasmic oxidoreductin-1;ERO1;ortholog	ERO1-LIKE PROTEIN (PTHR12613:SF0)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000001272|UniProtKB=P40553	YIL010W	Peroxiredoxin DOT5;DOT5;ortholog	PEROXIREDOXIN DOT5 (PTHR42801:SF14)	peroxidase(PC00180)	Saccharomyces cerevisiae
+YEAST|SGD=S000005911|UniProtKB=Q08908	YOR384W	Ferric reductase transmembrane component 5;FRE5;ortholog	FERRIC REDUCTASE TRANSMEMBRANE COMPONENT 3-RELATED (PTHR32361:SF9)		Saccharomyces cerevisiae
+YEAST|SGD=S000000250|UniProtKB=P38230	YBR046C	Probable quinone oxidoreductase;ZTA1;ortholog	QUINONE OXIDOREDUCTASE-RELATED (PTHR42975:SF1)	dehydrogenase(PC00092);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000001784|UniProtKB=P36156	YKR076W	Glutathione S-transferase omega-like 2;ECM4;ortholog	GLUTATHIONE S-TRANSFERASE OMEGA-LIKE 1-RELATED (PTHR32419:SF6)	signaling molecule(PC00207)	Saccharomyces cerevisiae
+YEAST|SGD=S000001569|UniProtKB=P36077	YKL086W	Sulfiredoxin;SRX1;ortholog	SULFIREDOXIN-1 (PTHR21348:SF2)		Saccharomyces cerevisiae
+YEAST|SGD=S000000871|UniProtKB=Q01217	YER069W	Protein ARG5,6, mitochondrial;ARG5,6;ortholog	N-ACETYLGLUTAMATE SYNTHASE, MITOCHONDRIAL (PTHR23342:SF0)		Saccharomyces cerevisiae
+YEAST|SGD=S000003786|UniProtKB=P47096	YJR025C	3-hydroxyanthranilate 3,4-dioxygenase;BNA1;ortholog	3-HYDROXYANTHRANILATE 3,4-DIOXYGENASE (PTHR15497:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000001084|UniProtKB=P16603	YHR042W	NADPH--cytochrome P450 reductase;NCP1;ortholog	NADPH--CYTOCHROME P450 REDUCTASE (PTHR19384:SF17)		Saccharomyces cerevisiae
+YEAST|SGD=S000004552|UniProtKB=Q04516	YML087C	Uncharacterized oxidoreductase AIM33;AIM33;ortholog	PLASMA MEMBRANE-ASSOCIATED COENZYME Q6 REDUCTASE PGA3 (PTHR19370:SF143)		Saccharomyces cerevisiae
+YEAST|SGD=S000002969|UniProtKB=P53199	YGL001C	Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating;ERG26;ortholog	STEROL-4-ALPHA-CARBOXYLATE 3-DEHYDROGENASE, DECARBOXYLATING (PTHR10366:SF242)	dehydratase(PC00091);epimerase/racemase(PC00096);oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000004617|UniProtKB=P54781	YMR015C	Cytochrome P450 61;ERG5;ortholog	CYTOCHROME P450 61 (PTHR24286:SF0)	oxygenase(PC00177)	Saccharomyces cerevisiae
+YEAST|SGD=S000004724|UniProtKB=Q04487	YMR118C	Mitochondrial inner membrane protein SHH3;SHH3;ortholog	SUCCINATE DEHYDROGENASE CYTOCHROME B560 SUBUNIT, MITOCHONDRIAL (PTHR10978:SF5)		Saccharomyces cerevisiae
+YEAST|SGD=S000000679|UniProtKB=P25372	YCR083W	Thioredoxin-3, mitochondrial;TRX3;ortholog	THIOREDOXIN-1-RELATED (PTHR10438:SF395)		Saccharomyces cerevisiae
+YEAST|SGD=S000001777|UniProtKB=P36150	YKR069W	Uroporphyrinogen-III C-methyltransferase;MET1;ortholog	UROPORPHYRINOGEN-III C-METHYLTRANSFERASE (PTHR45790:SF6)	decarboxylase(PC00089);methyltransferase(PC00155);reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000002639|UniProtKB=Q04935	YDR231C	Cytochrome c oxidase assembly protein COX20, mitochondrial;COX20;ortholog	CYTOCHROME C OXIDASE ASSEMBLY PROTEIN COX20, MITOCHONDRIAL (PTHR31586:SF1)		Saccharomyces cerevisiae
+YEAST|SGD=S000006152|UniProtKB=P19097	YPL231W	Fatty acid synthase subunit alpha;FAS2;ortholog	FATTY ACID SYNTHASE SUBUNIT ALPHA (PTHR10982:SF23)		Saccharomyces cerevisiae
+YEAST|SGD=S000000540|UniProtKB=P25373	YCL035C	Glutaredoxin-1;GRX1;ortholog	GLUTAREDOXIN 2 (PTHR45694:SF5)	oxidoreductase(PC00176)	Saccharomyces cerevisiae
+YEAST|SGD=S000004164|UniProtKB=P41939	YLR174W	Isocitrate dehydrogenase [NADP] cytoplasmic;IDP2;ortholog	ISOCITRATE DEHYDROGENASE [NADP]-RELATED (PTHR11822:SF33)		Saccharomyces cerevisiae
+YEAST|SGD=S000001146|UniProtKB=P38715	YHR104W	NADPH-dependent aldose reductase GRE3;GRE3;ortholog	NADPH-DEPENDENT ALDOSE REDUCTASE GRE3 (PTHR11732:SF218)	reductase(PC00198)	Saccharomyces cerevisiae
+YEAST|SGD=S000004662|UniProtKB=P38993	YMR058W	Iron transport multicopper oxidase FET3;FET3;ortholog	FI03373P-RELATED (PTHR11709:SF209)	oxidase(PC00175)	Saccharomyces cerevisiae
+YEAST|SGD=S000002861|UniProtKB=Q04120	YDR453C	Peroxiredoxin TSA2;TSA2;ortholog	PEROXIREDOXIN-4 (PTHR10681:SF128)	peroxidase(PC00180)	Saccharomyces cerevisiae
