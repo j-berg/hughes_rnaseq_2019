@@ -1,0 +1,13 @@
+id	FID	drug	time	culture
+14517X1	14517F_1	Concanamycin A	0	A
+14517X2	14517F_2	Concanamycin A	0	B
+14517X3	14517F_3	Concanamycin A	0	C
+14517X4	14517F_4	Concanamycin A	1	A
+14517X5	14517F_5	Concanamycin A	1	B
+14517X6	14517F_6	Concanamycin A	1	C
+14517X7	14517F_7	Concanamycin A	3	A
+14517X8	14517F_8	Concanamycin A	3	B
+14517X9	14517F_9	Concanamycin A	3	C
+14517X10	14517F_10	Concanamycin A	6	A
+14517X11	14517F_11	Concanamycin A	6	B
+14517X12	14517F_12	Concanamycin A	6	C
