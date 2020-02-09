@@ -7,7 +7,7 @@ The [interactive notebook](https://mybinder.org/v2/gh/j-berg/hughes_rnaseq_2019/
 
 ### Associated citation:
 ```
-
+Hughes CE, Coody TK, Jeong M, Berg JA, Winge DR, Hughes AL. Amino acid toxicity drives age-related mitochondrial decline by altering iron metabolism. (2020) Cell. DOI: 10.1016/j.cell.2019.12.035
 ```
 
 ### Navigation:
