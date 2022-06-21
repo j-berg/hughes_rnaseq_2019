@@ -1,5 +1,5 @@
 pandas==0.24.2
-numpy==1.16.2
+numpy==1.22.0
 scikit-learn==0.21.1
 matplotlib==2.2.3
 xpressplot==0.0.4b0
